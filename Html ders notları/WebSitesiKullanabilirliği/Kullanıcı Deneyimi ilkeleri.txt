@@ -1,0 +1,57 @@
+Kullanıcı Deneyimi ilkeleri
+
+Estetik-KuIIanıIabiIirIik Etkisi
+• Kullanıcılar genellikle estetik açıdan güzel tasarımları, daha
+kullanılabilir olarak algılarlar.
+
+Doherty Eşiği
+• Kullanıcılar ve sistem arasındaki etkileşim hızı, 4400 ms
+olduğunda üretkenlik artar.
+
+Fitts İlkesi
+• Bir hedefe ulaşma süresi, hedefin uzaklığı ve boyutu ile
+orantılıdır.
+
+Hick İlkesi
+• Karar verme süresi, seçimlerin sayısı ve karmaşıklığı ile
+artar.
+
+Jacob ilkesi
+• Kullanıcılar zamanlarının çoğunu diğer sitelerde geçirirler.
+Bu, kullanıcıların şunu tercih ettiği anlamına gelir: Sitenizin,
+zaten bildikleri diğer tüm sitelerle aynı şekilde çalışması.
+
+Miller ilkesi
+• Ortalama bir kişi kısa süreli belleğinde yalnızca 7 (+-2) öğe
+tutabilir.
+
+Occam Usturası
+• Eşit derecede iyi öngörüde bulunan rakip hipotezler
+arasında, en az varsayıma sahip olan seçilmelidir.
+
+Pareto İlkesi
+• Birçok olay için etkilerin yaklaşık %80'i, nedenlerin
+%20'sinden kaynaklanır.
+
+Zirve-Son Kuralı
+• İnsanlar bir deneyimi, deneyimin her anının toplamı ya da
+ortalamasından ziyade, zirvede ve sonunda nasıl
+hissettiklerine göre değerlendirirler.
+
+Seri Konum Etkisi
+• Kullanıcılar, bir serideki ilk ve son öğeleri en iyi hatırlama
+eğilimindedir.
+
+Tesler İlkesi
+• Her uygulamanın, kaldırılamayan veya gizlenemeyen doğal
+bir karmaşıklığı vardır. Bu karmaşıklık, ürün geliştirmede
+veya kullanıcı etkileşiminde ele alınmalıdır.
+
+Von Restorff Etkisi
+• İzolasyon Etkisi olarak da bilinen Von Restorff etkisi, birden
+fazla benzer nesne mevcut olduğunda, diğerlerinden farklı
+olanın büyük olasılıkla hatırlanacağını öngörür.
+
+Zeigarnik Etkisi
+• İnsanlar tamamlanmamış veya kesintiye uğramış görevleri,
+tamamlanmış görevlerden daha iyi hatırlar.

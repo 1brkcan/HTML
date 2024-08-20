@@ -1,0 +1,7 @@
+Span Komutu
+• Bazen belli bir etiket içinde olmayan metinlere CSS veya Javascript
+komutu uygulamak isteriz.
+• Bu durumda metin <span> etiketi içine alınır ve id veya Class gibi
+özellikleri kullanılarak CSS kodu uygulanır.
+
+<p id="p5">buraya bir <span id="mavi">metin</span> yaziyorum</p>

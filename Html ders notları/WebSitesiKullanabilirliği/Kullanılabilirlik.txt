@@ -1,0 +1,57 @@
+Kullanılabilirlik
+• Deneyim
+• Deneyim; görüntü ve seslerden, duygu ve düşüncelerden,
+eylemlerden ve daha birçok parametreden etkilenen ve
+hafızada saklanıp, etiketlenen bir zaman dilimidir.
+-Marc Hassenzahl
+• Kullanım ve tüketim her zaman bir deneyime
+dönüşür.
+• Bir deneyimin değeri son derece özneldir.
+
+• Kullanıcı Deneyimi (UX)
+• Kullanıcı Deneyimi, etkileşimli ürünlere odaklanan, genel
+anlamda deneyimin bir alt kategorisidir.
+
+• Kullanıcı Deneyimi Tasarımı
+• Kullanıcı Arayüzü (UI) Tasarımı değildir.
+• Kullanılabilirlik (Usability) değildir.
+• Ancak bunların her ikisi de Kullanıcı Deneyimi Tasarımı
+açısından önemlidir.
+
+• Kullanıcı Deneyimi (UX) Tasarımı
+• «Bir ürün, üründen daha fazlasıdır. Birbirine bağlı, entegre
+bir deneyimler dizisidir. Bir ürün veya hizmetin ilk
+amaçlarından nihai yansımalara, ilk kullanımdan yardım,
+hizmet ve bakıma kadar tüm aşamalarını düşünün. Hepsinin
+kusursuz bir şekilde birlikte çalışmasını sağlayın.»
+-Don Norman
+
+ Kullanılabilirlik
+• Kullanıcı arayüzlerinin, ne kadar kolay kullanılabildiğini
+değerlendiren bir kalite özelliğidir.
+
+ Kullanılabilirlik, 5 kalite bileşeni ile tanımlanır:
+• Öğrenilebilirlik
+• Verimlilik
+• Hatırlanabilirlik
+• Hatalar
+• Memnuniyet
+
+Kullanılabilirlik
+Neden Önemlidir?
+• Bir web sitesinin kullanımı zorsa,
+insanlar bu siteyi terk eder.
+• Ana sayfa, sitenin neler sunduğunu ve
+kullanıcıların neler yapabileceğini
+açıkça göstermiyorsa insanlar terk eder.
+• Kullanıcılar bir web sitesinde
+kayboluyorsa, insanlar terk eder.
+• Sitedeki bilgilerin okunması zorsa veya
+kullanıcıların temel sorularını
+yanıtlamıyorsa, siteden ayrılırlar.
+
+ Ne zaman bu konuda çalışma yapmalıyız?
+ Yeni tasarıma,
+• Başlamadan önce,
+• Geçiş yaparken,
+• Geçiş yaptıktan sonra

@@ -1,0 +1,7 @@
+Göz ile Tarama Desenleri
+
+İnternette göz ile metin tarama desenleri
+• F deseni
+• Noktalı desen
+• Katmanlı desen
+• Bağlılık deseni

@@ -1,0 +1,26 @@
+Liste Oluşturma
+
+• HTML sayfalarında liste oluşturmak
+için <ol> ve <ul> tagları kullanılır.
+<ol> tagı ordered list kelimelerinin
+kısaltılmışıdır ve numaralı liste
+oluşturmak için kullanılırken, <ul>
+tagı unordered list kelimelerinin
+kısaltılmışıdır ve madde imli liste
+oluşturmak için kullanılır.
+
+• Listedeki her bir elemanı göstermek
+icin <li> tagı kullanılmaktadır.
+
+• Listenin l'den değil de örneğin 3'ten
+başlamasını istiyorsanız <ol start="3"
+şeklinde bir kod yazabilirsiniz.
+
+• Listenizin artan değil de azalan olmasını
+istiyorsanız  <ol reversed="reversed”>
+şeklinde bir kod yazabilirsiniz.
+
+• Eğer rakam yerine harf ya da Roma
+rakamlarının kullanılmasını istiyorsanız
+type özelliğine A, a, I veya i değerlerini
+verebilirsiniz.

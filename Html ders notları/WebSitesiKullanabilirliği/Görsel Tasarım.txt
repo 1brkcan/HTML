@@ -1,0 +1,14 @@
+Görsel Tasarım
+
+Kullanıcı deneyimini en fazla etkileyen görsel tasarım prensipleri
+• Ölçek (buyukluk onemlı)
+• Hiyerarşi (onem derecelerı onemlı)
+• Denge (her ıkı tarafın esıt olması asımetrıkde olabılır)
+• Kontrast (gozle gorunur farklar)
+• Geştalt Prensipleri
+  Kapatma / Tamamlama (eksıksız sekıller gıbı)
+  Şekil / Zemin (bakılan nesner)
+  Ortak bölgeler (ılgılı nesneler aynı alana)
+  Yakınlık (metnı butun olarak algılama)
+
+

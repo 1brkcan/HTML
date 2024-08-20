@@ -1,0 +1,9 @@
+Paragraf Oluşturma <p>
+• Arama motorlarının en sevdiği içerik metinlerdir. O nedenle
+semantik bir etiket olan paragraf etiketi çok önemlidir.
+• id özelliği kullanılarak benzersiz bir isim verilebilir ve bu isimle değişik CSS
+ya da Javascript komutları uygulanabilir.
+• Class özelliği kullanılarak da belli bir ada sahip CSS komut-grubu
+uygulanabilir.
+Style özelliği ile doğrudan CSS kodu yazılabilir.
+• <br> etiketi ile alt satıra geçilebilir.
